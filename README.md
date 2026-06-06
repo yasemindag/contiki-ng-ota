@@ -1,4 +1,4 @@
-# BIL304 İşletim Sistemleri — OTA Firmware Güncelleme Projesi
+# BIL304 İşletim Sistemleri — OTA Firmware Projesi
 **Platform:** Contiki-NG v4.8, Cooja Simülatörü, TI Z1 Mote (MSP430F2617 + CC2420)
 
 ---
