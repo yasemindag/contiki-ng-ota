@@ -2,8 +2,6 @@
 **Platform:** Contiki-NG v4.8, Cooja Simülatörü, TI Z1 Mote (MSP430F2617 + CC2420)
 
 ---
-YouTube Linki: https://www.youtube.com/watch?v=ZcdPK7DX2zM
----
 
 ## 1. Projeye Genel Bakış
 
